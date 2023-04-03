@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/db/getUserInfo": "pages/api/db/getUserInfo.js",
+  "/api/db/getTotalPoints": "pages/api/db/getTotalPoints.js",
+  "/account": "pages/account.js",
+  "/api/db/deductTotalPoints": "pages/api/db/deductTotalPoints.js",
+  "/api/db/deductUserPoint": "pages/api/db/deductUserPoint.js",
+  "/api/db/getRides": "pages/api/db/getRides.js"
+}
